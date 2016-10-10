@@ -1,0 +1,14 @@
+c:\users\eric\documents\visual studio 2015\Projects\rdpRemote\rdpRemote\bin\Debug\rdpRemote.exe.config
+c:\users\eric\documents\visual studio 2015\Projects\rdpRemote\rdpRemote\bin\Debug\rdpRemote.exe
+c:\users\eric\documents\visual studio 2015\Projects\rdpRemote\rdpRemote\bin\Debug\rdpRemote.pdb
+c:\users\eric\documents\visual studio 2015\Projects\rdpRemote\rdpRemote\obj\Debug\rdpRemote.Properties.Resources.resources
+c:\users\eric\documents\visual studio 2015\Projects\rdpRemote\rdpRemote\obj\Debug\rdpRemote.csproj.GenerateResource.Cache
+c:\users\eric\documents\visual studio 2015\Projects\rdpRemote\rdpRemote\obj\Debug\rdpRemote.exe
+c:\users\eric\documents\visual studio 2015\Projects\rdpRemote\rdpRemote\obj\Debug\rdpRemote.pdb
+c:\users\eric\documents\visual studio 2015\Projects\rdpRemote\rdpRemote\bin\Debug\Resources\ServersConfig.xml
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\rdpRemote\rdpRemote\bin\Debug\Resources\green.jpg
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\rdpRemote\rdpRemote\bin\Debug\Resources\red.jpg
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\rdpRemote\rdpRemote\obj\Debug\rdpRemote.Form1.resources
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\rdpRemote\rdpRemote\bin\Debug\Resources\opem.png
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\rdpRemote\rdpRemote\bin\Debug\Resources\open.ico
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\rdpRemote\rdpRemote\bin\Debug\Resources\Refresh.png

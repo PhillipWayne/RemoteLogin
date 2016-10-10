@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<servers>
+  <server ip="192.168.56.101">
+    <UserName>administrator</UserName>
+    <PassWord>password01!</PassWord>
+    <FileName>虚拟机.rdp</FileName>
+    <Remark>4</Remark>
+  </server>
+  <server ip="10.1.2.53">
+    <UserName>administrator</UserName>
+    <PassWord>password1!</PassWord>
+    <FileName>server.rdp</FileName>
+    <Remark>web服务器</Remark>
+  </server>
+</servers>
